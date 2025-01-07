@@ -1,4 +1,0 @@
-.env
-/weather-dashboard/.env
-/weather-dashboard/__pycache__/
-*.zip
