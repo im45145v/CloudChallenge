@@ -3,3 +3,4 @@
 /weather-dashboard/src/__pycache__/
 *.zip
 weather-dashboard/src/__pycache__
+*.env
